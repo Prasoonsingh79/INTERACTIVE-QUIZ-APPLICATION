@@ -1,3 +1,4 @@
+
 const quizQuestions = [
     {
       question: "What is the capital of France?",
@@ -105,3 +106,5 @@ const quizQuestions = [
   }
    Document.getElementById("start-button").onclick = startQuiz;
   document.getElementById("start-button").style.display = "inline-block";
+
+  
